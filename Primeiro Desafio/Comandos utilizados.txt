@@ -1,0 +1,6 @@
+Git clone - Para copiar o link do repositório "https" da nuvem para a minha máquina;
+Git status - Para visualizar o status dentro do meu git bash;
+Git add
+Git commit -m "Mensagem"
+
+Git push origin main - Para enviar arquivo da minha maquina para a nuvem
